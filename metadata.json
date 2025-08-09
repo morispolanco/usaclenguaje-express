@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Language Guide",
+  "description": "An interactive web application to study for the PCB 2025 Language exam for the University of San Carlos de Guatemala. It features lessons, examples, and interactive quizzes. The first module is free, with subsequent modules available after a one-time payment.",
+  "requestFramePermissions": []
+}
