@@ -295,7 +295,7 @@ function App() {
     
     // IMPORTANT: For real payments, you must create a Product and a Price
     // in your Stripe Dashboard (live mode) and use its ID here.
-    const priceId = 'YOUR_LIVE_PRICE_ID'; // <-- REPLACE WITH YOUR LIVE PRICE ID FROM STRIPE
+    const priceId = 'prod_Spm6cnxBN88zww'; // <-- REPLACE WITH YOUR LIVE PRICE ID FROM STRIPE
 
     const { error } = await stripe.redirectToCheckout({
       lineItems: [{
